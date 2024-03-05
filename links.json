@@ -1,0 +1,11 @@
+{
+  "links": {
+    "25.25 BRL": "https://exemplo.com/link1",
+    "50.50 BRL": "https://exemplo.com/link2",
+    "101.00 BRL": "https://exemplo.com/link3",
+    "151.50 BRL": "https://exemplo.com/link4",
+    "505.00 BRL": "https://exemplo.com/link5",
+    "1,010.00 BRL": "https://exemplo.com/link6",
+    "252.50 BRL": "https://exemplo.com/link7"
+  }
+}
